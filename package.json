@@ -1,0 +1,11 @@
+{
+  "name": "example-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-w3c-css-validation": "^0.1.0",
+    "grunt-w3c-html-validation": "^0.1.9"
+  }
+}
